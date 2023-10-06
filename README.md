@@ -43,7 +43,7 @@ END;
 /
 ```
 # Output:
-![Uploading image.png…]()
+![image](https://github.com/imthiyas19/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/120353416/599f5baa-399b-45a2-a168-8e19c1a51312)
 
 
 # Result:
